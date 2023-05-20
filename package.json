@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/ragnarrok/solar-boy/issues"
   },
-  "homepage": "https://github.com/ragnarrok/solar-boy#readme"
+  "homepage": "https://github.com/ragnarrok/solar-boy#readme",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "mqtt": "^4.3.7"
+  }
 }
