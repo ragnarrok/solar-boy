@@ -1,0 +1,22 @@
+{
+  "name": "solar-boy",
+  "version": "1.0.0",
+  "description": "An MQTT based notification service for devices running Solar Assistant.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ragnarrok/solar-boy.git"
+  },
+  "author": "ragnarrok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ragnarrok/solar-boy/issues"
+  },
+  "homepage": "https://github.com/ragnarrok/solar-boy#readme"
+}
