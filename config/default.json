@@ -1,0 +1,15 @@
+{
+  "MQTTServer": {
+    "host": "192.168.1.234",
+    "username": "user",
+    "password": "password",
+    "port": 8199
+  },
+  "MailServer": {
+    "host": "mail.google.com",
+    "port": 586,
+    "secure": false,
+    "username": "user",
+    "password": "password"
+  }
+}

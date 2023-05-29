@@ -22,6 +22,8 @@
   "homepage": "https://github.com/ragnarrok/solar-boy#readme",
   "dependencies": {
     "chalk": "^5.2.0",
-    "mqtt": "^4.3.7"
+    "config": "^3.3.9",
+    "mqtt": "^4.3.7",
+    "node-config": "^0.0.2"
   }
 }
