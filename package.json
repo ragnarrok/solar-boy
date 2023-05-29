@@ -24,6 +24,6 @@
     "chalk": "^5.2.0",
     "config": "^3.3.9",
     "mqtt": "^4.3.7",
-    "node-config": "^0.0.2"
+    "nodemailer": "^6.9.3"
   }
 }
